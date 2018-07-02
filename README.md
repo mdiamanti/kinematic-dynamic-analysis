@@ -12,4 +12,6 @@ The appropriate kinematic parameters and other technical specifications of Jaco<
 
 
 
+
+
 \* j2n6s300 consists an abbreviation that refers to the model Jaco<sup>2</sup> 6 DOF.
